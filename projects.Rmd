@@ -1,0 +1,6 @@
+---
+title: "Resume of Sijia Yue"
+
+---
+
+<img src="images/Sijia_Yue_Resume.pdf" style="width:75%">
